@@ -1,6 +1,16 @@
 
 Online Grocery System
 
-Textual description of the domain
+Textual description of the domain.
 
-The online grocery system allows the user to order grocery from a grocery store. It consists of several users and a grocery store communicating through the internet. Users can register with the online grocery system. Only the registered users are allowed to place the order whereas the guest users can only view the products, price, description and offer. The grocery store is sub-divided into several departments such as fruits and vegetable, poultry and dairy product, meats and fishery, juice and beverages and other grocery departments.  Each department has several products listed with name, price, description and offer.  User are allowed to choose to the items from any department and add it into the cart and choose the payment option. There are two payment options. First is cash on delivery and second is using credit/debit card. For free delivery, the minimum grand total of all items brought by the user should be $ 50 before taxes. Otherwise, the user will pay $3 as a delivery charge.  If the user chose to pay using card then next step is place the order and pay, else if the user opts for cash on delivery then just place the order. 
+1)The online grocery system allows the user to order grocery from NeoPhytes grocery store. 
+2)It consists of several users.
+3) Users can register with the online grocery system.
+Only the registered users are allowed to place the order whereas the guest users can only view the products,
+price, description and offer. The grocery store is sub-divided into several departments such as fruits and vegetable,
+poultry and dairy product, meats and fishery, juice and beverages and other grocery departments.  Each department has 
+several products listed with name, price, description and offer.  User are allowed to choose to the items from any
+department and add it into the cart and choose the payment option. There are two payment options. First is cash on
+delivery and second is using credit/debit card. For free delivery, the minimum grand total of all items brought by
+the user should be $ 50 before taxes. Otherwise, the user will pay $3 as a delivery charge.  If the user chose to 
+pay using card then next step is place the order and pay, else if the user opts for cash on delivery then just place the order. 
