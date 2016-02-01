@@ -5,12 +5,15 @@ Textual description of the domain.
 
 1)The online grocery system allows the user to order grocery from NeoPhytes grocery store. 
 2)It consists of several users.
-3) Users can register with the online grocery system.
-Only the registered users are allowed to place the order whereas the guest users can only view the products,
-price, description and offer. The grocery store is sub-divided into several departments such as fruits and vegetable,
-poultry and dairy product, meats and fishery, juice and beverages and other grocery departments.  Each department has 
-several products listed with name, price, description and offer.  User are allowed to choose to the items from any
-department and add it into the cart and choose the payment option. There are two payment options. First is cash on
-delivery and second is using credit/debit card. For free delivery, the minimum grand total of all items brought by
-the user should be $ 50 before taxes. Otherwise, the user will pay $3 as a delivery charge.  If the user chose to 
-pay using card then next step is place the order and pay, else if the user opts for cash on delivery then just place the order. 
+3)Users can register with the online grocery system.
+4)Only the registered users are allowed to place the order whereas the guest users can only view the products,
+price, description and offers. 
+5)The grocery store is sub-divided into several departments such as fruits and vegetables,
+poultry and dairy products, meats and fishery, juice and beverages and other grocery departments.  
+6)Each department has several products listed with name, price, description and offer.  
+7)Users are allowed to choose the items from any department and add it into the cart and choose the payment option. 
+8)There are two payment options. First is cash on delivery and second is using credit/debit card. 
+9)For free delivery, the minimum grand total of all items bought by the user should be $ 50 before taxes. Otherwise, 
+the user has to pay $3 as a delivery charge.  
+10)If the user chooses to pay using card then next step is placing the order and payment, else if the user opts for cash on delivery 
+then just place the order. 
