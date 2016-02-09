@@ -1,0 +1,49 @@
+
+Online Grocery System
+
+Textual description of the domain.
+
+1)The online grocery system allows the user to order grocery from NeoPhytes grocery store. 
+2)It consists of several users.
+3)Users can register with the online grocery system.
+4)Only the registered users are allowed to place the order whereas the guest users can only view the products,
+price, description and offers. 
+5)The grocery store is sub-divided into several departments such as fruits and vegetables,
+poultry and dairy products, meats and fishery, juice and beverages and other grocery departments.  
+6)Each department has several products listed with name, price, description and offer.  
+7)Users are allowed to choose the items from any department and add it into the cart and choose the payment option. 
+8)There are two payment options. First is cash on delivery and second is using credit/debit card. 
+9)For free delivery, the minimum grand total of all items bought by the user should be $ 50 before taxes. Otherwise, 
+the user has to pay $3 as a delivery charge.  
+10)If the user chooses to pay using card then next step is placing the order and payment, else if the user opts for cash on delivery 
+then just place the order. 
+
+
+
+*************************************************************************************************************************************
+
+
+Functional requirements:
+User
+The users shall be able to view the departments on the home page of an application.
+The users shall be able to view items in various departments.
+The users shall be able to view details of the item.
+The users shall be able to add items in the shopping cart.
+The users shall be able to view the items added to the shopping cart.
+The users shall be able to delete items from the cart.
+The users shall login or register using user authentication form.
+The users shall place an order only when login or registration is complete.
+Admin
+The admin shall be able to view all the registered users’ details.
+The admin shall be able to add/delete/modify departments.
+The admin shall be able to add/delete/modify items in various departments.
+The admin shall be able to view the entire history of successfully placed orders.
+
+Non functional requirements: 
+Reliability: The system should be able to perform its required functions under stated conditions for a specific period of time.
+Performance: The system should response quickly and not degrade in its operation with time. 
+Usability: The system should be easy to learn, operate and provide assistance to the user.
+Maintainability: The system should be designed in a way that it supports maintainability.
+Security: The system should not allow unauthorised access.
+
+
